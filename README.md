@@ -21,7 +21,8 @@ Examples:
 
 -   To buy: `buy,GBPUSD,0.1`
 -   To sell with stop loss and take profit: `sell,GBPUSD,0.1,1.3000,1.3100`
--   To close a position: `close,0.5`
+-   To close 50% all position: `close,0.5`
+-   To close 100% all position: `close,1`
 
 ## Using the Flask API
 
